@@ -23,6 +23,9 @@ module.exports = {
       paleBlue: 'hsl(221, 100%, 96%)',
       lightLavender: 'hsl(241, 100%, 89%)',
       darkGrayBlue: 'hsl(224, 30%, 27%)'
+    },
+    animation: {
+      wiggle: 'spin .5s ease-in-out'
     }
   },
   },
