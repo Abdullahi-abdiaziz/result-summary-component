@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Items(props) {
     return (
-        <div className="m-2">
+        <div className="mt-4">
             <div className={`${props.item.bgcolor} flex p-3 rounded-lg`}>
                 <img src={props.item.icon} alt="" />
                 <h4 className={`${props.item.color} ml-2 font-semibold`}> {props.item.category} </h4>

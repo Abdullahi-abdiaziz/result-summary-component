@@ -14,7 +14,7 @@ body {
     }
 }
 
-.red-300 {
+.red-50 {
     background: hsla(0, 100%, 67%,.05);
 }
 .red {
@@ -23,18 +23,18 @@ body {
 .green {
     color: hsla(166, 100%, 37%, .8);
 }
-.green-300 {
+.green-50 {
     background: hsla(166, 100%, 37%,.05);
 }
 .yellow {
     color: hsla(39, 100%, 56%, .8);
 }
-.yellow-300 {
+.yellow-50 {
     background: hsla(39, 100%, 56%,.05);
 }
 .blue {
     color: hsla(234, 85%, 45%, .8);
 }
-.blue-300 {
+.blue-50 {
     background: hsla(234, 85%, 45%, .05);
 }

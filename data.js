@@ -4,7 +4,7 @@ export default [
     "category": "Reaction",
     "score": 80,
     "icon": "./images/icon-reaction.svg",
-    "bgcolor": "red-300",
+    "bgcolor": "red-50",
     "color": "red"
   },
   {
@@ -12,7 +12,7 @@ export default [
     "category": "Memory",
     "score": 92,
     "icon": "./images/icon-memory.svg",
-    "bgcolor": "yellow-300",
+    "bgcolor": "yellow-50",
     "color": "yellow",
   },
   {
@@ -20,7 +20,7 @@ export default [
     "category": "Verbal",
     "score": 61,
     "icon": "./images/icon-verbal.svg",
-    "bgcolor": "green-300",
+    "bgcolor": "green-50",
     "color": "green"
   },
   {
@@ -28,7 +28,7 @@ export default [
     "category": "Visual",
     "score": 72,
     "icon": "./images/icon-visual.svg",
-    "bgcolor": "blue-300",
+    "bgcolor": "blue-50",
     "color": "blue"
   }
 ]
