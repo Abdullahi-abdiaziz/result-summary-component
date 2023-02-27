@@ -16,7 +16,7 @@ function App() {
   return (
     <main>
       <div className='flex flex-col justify-center items-center w-full
-                      shadow-lg rounded-3xl md:max-w-4xl md:flex-row'>
+                      shadow-lg rounded-3xl md:max-w-4xl md:flex-row '>
         <div className='flex flex-col w-full max-w-md justify-center items-center
                         bg-gradient-to-t from-grLightRoyalBluebg to-grLightSlateBluebg
                         px-10 py-12 text-center text-lightLavender rounded-b-3xl
