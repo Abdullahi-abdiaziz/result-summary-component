@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Hanken Grotesk", sans-serif;
+    min-height: 100vh;
+}
+@media (min-width: 768px) {
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.red-300 {
+    background: hsla(0, 100%, 67%,.15);
+}
+.red {
+    color:hsla(0, 100%, 67%,.8)
+}
+.green {
+    color: hsla(166, 100%, 37%, .8);
+}
+.green-300 {
+    background: hsla(166, 100%, 37%,.15);
+}
+.yellow {
+    color: hsla(39, 100%, 56%, .8);
+}
+.yellow-300 {
+    background: hsla(39, 100%, 56%,.15);
+}
+.blue {
+    color: hsla(234, 85%, 45%, .8);
+}
+.blue-300 {
+    background: hsla(234, 85%, 45%, .15);
+}
