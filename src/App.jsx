@@ -27,7 +27,7 @@ function App() {
             <h1 className='text-white text-5xl font-extrabold'>76</h1>
             <span className='text-sm'>of 100</span>
           </div>
-          <h3 className='text-white mb-4 text-lg font-semibold'>Great</h3>
+          <h4 className='text-white mb-4 text-lg font-semibold'>Great</h4>
           <p className='text-center p-4'>You scored higher than 65% of the people who have taken these results</p>
         </div>
         <div className='w-full px-6 my-2 md:w-1/2'>
