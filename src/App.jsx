@@ -31,7 +31,7 @@ function App() {
           <p className='text-center text-lg px-4'>You scored higher than 65% of the people who have taken these results</p>
         </div>
         <div className='w-full px-10 py-10 my-2 md:w-1/2'>
-          <h3 className='my-4 text-2xl font-bold text-darkGrayBlue'>Summary</h3>
+          <h5 className='my-4 text-2xl font-bold text-darkGrayBlue'>Summary</h5>
           {items}
           <a href="#" className="mx-2 my-4 block text-center text-white font-semibold py-3 rounded-full bg-darkGrayBlue">Continue</a>
         </div>
